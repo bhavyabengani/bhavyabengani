@@ -1,6 +1,6 @@
 # Bhavya Bengani
 
-CS student @ Jaipur · Building applied AI systems · Available for internships & freelance
+CS student @ Ashoka University · Building applied AI systems · Available for internships & freelance
 
 ---
 
