@@ -6,7 +6,7 @@ CS student @ Ashoka University · Building applied AI systems · Available for i
 
 ## What I'm building
 
-Focused on the applied side of AI — things that actually work in production.
+Focused on the applied side of AI - things that actually work in production.
 Current interests: LLM applications, RAG pipelines, AI agents, and API-first backends.
 
 ## Stack
