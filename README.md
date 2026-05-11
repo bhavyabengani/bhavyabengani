@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bhavya Bengani
 
-<!--
-**bhavyabengani/bhavyabengani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ Jaipur · Building applied AI systems · Available for internships & freelance
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+Focused on the applied side of AI — things that actually work in production.
+Current interests: LLM applications, RAG pipelines, AI agents, and API-first backends.
+
+## Stack
+
+`Python` · `FastAPI` · `LangChain` · `Streamlit` · `PostgreSQL` · `Git`
+
+## Open to
+
+- **Paid internships** (remote or Jaipur-based)
+- **Freelance projects** involving AI/ML or backend work
+- **Collaborations** on open-source AI tools
+
+## Reach me
+
+📧 bhavyabengani@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/bhavyabengani)
